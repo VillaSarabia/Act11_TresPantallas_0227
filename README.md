@@ -1,4 +1,6 @@
 # myapp
+Lenguaje Dart Flutter, nivel principiante, ejemplo de navegacion entre 3 paginas utilizando rutas nombradas, desde main llamar a pagina 1 , En la pagina 1 mostrar appbar el titulo "inicio " color blanco y fondo azul y en body, en una columna mostrar texto (Pagina inicial) mas un boton para ir a la segunda pagina, en la segunda pagina mostrar el appbar "segunda pagina" color negro con fondo Morado claro y en body mostrar una imagen desde la red mas un boton para ir a la tercera pagina, en la tarcera pagina en appbar mostrar titulo "Tercera pagina" color Blanco con fondo Rojo y en body mostrar un container de 200 por 200 azul claro, debe ser atractivo facil navegacion y mostrar todo el codigo en un solo archivo
+
 <img width="427" height="745" alt="image" src="https://github.com/user-attachments/assets/e1ac7975-7fdf-4b6f-bedb-98b104f82852" />
 <img width="456" height="726" alt="image" src="https://github.com/user-attachments/assets/b6231cfc-7e9f-4f98-abf7-715569941463" />
 <img width="449" height="724" alt="image" src="https://github.com/user-attachments/assets/4f6c663e-32bf-4367-a772-fe5a77aaf741" />
